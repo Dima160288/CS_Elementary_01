@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_Numbers", "Tasks_\Task3_Numbers.csproj", "{6CA6DEA0-81A7-4D01-B26D-155400DE46C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_student", "ConsoleApp1\Task1_student.csproj", "{15309CF9-7B53-42C5-80D8-A15EDF3C6335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_trains", "Task3\Task2_trains.csproj", "{CA5EAAD6-2053-4EF9-887F-1CCB9964B50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4_Counter", "ConsoleApp2\Task4_Counter.csproj", "{549B4399-92F1-4044-AE64-7C04B965243C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5_Classes_Constructor_Destr", "ConsoleApp3\Task5_Classes_Constructor_Destr.csproj", "{1DC38FBB-FCE8-4F10-B580-2C45C0AB6EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6_DynamicArr", "Task6_DynamicArr\Task6_DynamicArr.csproj", "{1E993F3B-597D-4871-B63F-CDD66D665DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7_ArraysString", "Task7_Arrays\Task7_ArraysString.csproj", "{307B5863-8578-4DDB-AC0B-B5DEE6136D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA6DEA0-81A7-4D01-B26D-155400DE46C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA6DEA0-81A7-4D01-B26D-155400DE46C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA6DEA0-81A7-4D01-B26D-155400DE46C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA6DEA0-81A7-4D01-B26D-155400DE46C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15309CF9-7B53-42C5-80D8-A15EDF3C6335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15309CF9-7B53-42C5-80D8-A15EDF3C6335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15309CF9-7B53-42C5-80D8-A15EDF3C6335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15309CF9-7B53-42C5-80D8-A15EDF3C6335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5EAAD6-2053-4EF9-887F-1CCB9964B50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5EAAD6-2053-4EF9-887F-1CCB9964B50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5EAAD6-2053-4EF9-887F-1CCB9964B50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5EAAD6-2053-4EF9-887F-1CCB9964B50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549B4399-92F1-4044-AE64-7C04B965243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549B4399-92F1-4044-AE64-7C04B965243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549B4399-92F1-4044-AE64-7C04B965243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549B4399-92F1-4044-AE64-7C04B965243C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC38FBB-FCE8-4F10-B580-2C45C0AB6EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC38FBB-FCE8-4F10-B580-2C45C0AB6EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC38FBB-FCE8-4F10-B580-2C45C0AB6EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC38FBB-FCE8-4F10-B580-2C45C0AB6EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E993F3B-597D-4871-B63F-CDD66D665DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E993F3B-597D-4871-B63F-CDD66D665DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E993F3B-597D-4871-B63F-CDD66D665DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E993F3B-597D-4871-B63F-CDD66D665DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307B5863-8578-4DDB-AC0B-B5DEE6136D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307B5863-8578-4DDB-AC0B-B5DEE6136D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307B5863-8578-4DDB-AC0B-B5DEE6136D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307B5863-8578-4DDB-AC0B-B5DEE6136D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADB4C22-02FF-403D-BE34-D43F3D589DA0}
+	EndGlobalSection
+EndGlobal

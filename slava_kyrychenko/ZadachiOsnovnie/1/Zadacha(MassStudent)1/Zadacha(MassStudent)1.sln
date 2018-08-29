@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha(MassStudent)1", "Zadacha(MassStudent)1\Zadacha(MassStudent)1.csproj", "{065CBCB6-0D46-48FF-A010-16F945194808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha(MassStudent)1.tests", "Zadacha(MassStudent)1.tests\Zadacha(MassStudent)1.tests.csproj", "{595A0D63-D849-4338-AF95-8DD51068C677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065CBCB6-0D46-48FF-A010-16F945194808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065CBCB6-0D46-48FF-A010-16F945194808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065CBCB6-0D46-48FF-A010-16F945194808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065CBCB6-0D46-48FF-A010-16F945194808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595A0D63-D849-4338-AF95-8DD51068C677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595A0D63-D849-4338-AF95-8DD51068C677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595A0D63-D849-4338-AF95-8DD51068C677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595A0D63-D849-4338-AF95-8DD51068C677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA7AC98-BA28-44E5-AE07-91E86FEADD83}
+	EndGlobalSection
+EndGlobal
