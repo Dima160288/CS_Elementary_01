@@ -30,11 +30,14 @@ namespace JavaScriptSerializerExample
             Person p1 = ser.Deserialize<Person>(JSONstring);
             Console.WriteLine(p1);
 
+
             //output JSON file
 
-            Person p2 = new Person() { name = "Ben", age = 58 };
-            string outputJSON = ser.Serialize(p2);
-            File.WriteAllText("Output.json", outputJSON);
+            //Person p2 = new Person() { name = "Ben", age = 58 };
+            //string outputJSON = ser.Serialize(p2);
+            //File.WriteAllText("JSON.json", outputJSON);
+
+            Console.ReadLine();
         }
 
 

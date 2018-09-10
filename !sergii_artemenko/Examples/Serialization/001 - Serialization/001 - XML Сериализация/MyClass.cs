@@ -4,8 +4,7 @@ using System.Collections.Generic;
 
 namespace XML
 {
-    // XmlRoot - Переименовывает рутовую ноду.
-    [XmlRoot("MyButton")]      
+    [XmlRoot("MyButton111111")]      
     public class MyClass
     {
         private string id = "button";

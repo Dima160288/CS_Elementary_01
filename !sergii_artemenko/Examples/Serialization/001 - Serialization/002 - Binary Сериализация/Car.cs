@@ -2,7 +2,7 @@ using System;
 
 namespace SerializableWork
 {
-    // Класс Car будет доступен для сериализации.
+    
     [Serializable]
     public class Car
     {
@@ -17,7 +17,7 @@ namespace SerializableWork
             radio = new Radio();
         }
 
-        // Метод включения/выключения радио.
+        
         public void TurnOnRadio(bool state)
         {
             this.radio.OnOff(state);

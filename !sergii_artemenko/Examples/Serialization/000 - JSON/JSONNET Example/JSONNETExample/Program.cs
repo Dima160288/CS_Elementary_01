@@ -37,6 +37,8 @@ namespace JSONNETExample
             Person p2 = new Person { name = "ben", age = 46 };
             string outputJSON = JsonConvert.SerializeObject(p2);
             File.WriteAllText("Output.json", outputJSON);
+
+            Console.ReadLine();
         }
     }
 }
